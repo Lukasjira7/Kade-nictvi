@@ -155,3 +155,12 @@ p.small {
 p.big {
   line-height: 1.8;
 }
+footer {
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+   text-align: center;
+}
